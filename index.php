@@ -14,7 +14,7 @@
 
 
 
-    <!-- Le styles asdasdas 
+    <!-- Le styles asdasdas  nuevac  qweqwe
     <link href="boostrap/css/bootstrap.css" rel="stylesheet">
     <link href="boostrap/css/bootstrap-responsive.css" rel="stylesheet">-->
 
