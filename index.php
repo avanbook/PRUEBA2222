@@ -9,12 +9,7 @@
     <meta name="author" content="">
 
 
-
-
-
-
-
-    <!-- Le styles asdasdas  nuevac  qweqwe
+    <!-- Le styles asdasdas  nuevac  qweqwe gsdfsdfsdfs d sfdsfsdfs
     <link href="boostrap/css/bootstrap.css" rel="stylesheet">
     <link href="boostrap/css/bootstrap-responsive.css" rel="stylesheet">-->
 
